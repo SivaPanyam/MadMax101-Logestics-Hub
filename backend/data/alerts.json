@@ -1,0 +1,500 @@
+[
+  {
+    "id": "0263f3a1-7788-466d-9653-6a9c9f2b8421",
+    "message": "Typhoon formation detected in South China Sea affecting Eastbound routes.",
+    "severity": "critical",
+    "timestamp": "08:15:22"
+  },
+  {
+    "id": "67b84291-a122-4881-8844-322199bba321",
+    "message": "Heavy port congestion reported at Port of Los Angeles; expected berth delays +48h.",
+    "severity": "warning",
+    "timestamp": "09:30:45"
+  },
+  {
+    "id": "99823112-bb21-4c32-a122-88223311aabb",
+    "message": "System alert: Automated pilot error on MS Ever Given II; investigation ongoing.",
+    "severity": "warning",
+    "timestamp": "10:45:10"
+  },
+  {
+    "id": "ff321122-aa11-4433-8822-112233aabbcc",
+    "message": "Suez Canal transit schedule updated due to maintenance; minor delays expected.",
+    "severity": "info",
+    "timestamp": "11:20:05"
+  },
+  {
+    "id": "cc321122-dd33-4422-8877-112233aabbcc",
+    "message": "CRITICAL: Fuel price spike in Singapore hub affecting long-range routing costs.",
+    "severity": "critical",
+    "timestamp": "12:55:30"
+  },
+  {
+    "id": "ee443322-bb11-4422-9988-112233aabbcc",
+    "message": "Weather alert: Fog conditions in Antwerp port slowing down container loading.",
+    "severity": "warning",
+    "timestamp": "14:10:15"
+  },
+  {
+    "id": "77bb3322-cc44-4422-8877-112233aabbcc",
+    "message": "Labor dispute resolved at Port of Felixstowe; normal operations resuming.",
+    "severity": "healthy",
+    "timestamp": "15:45:00"
+  },
+  {
+    "id": "4c423bb6-1317-44e8-93b3-5be1f19e0950",
+    "message": "ALERT: Vessel Maintenance reported in South China Sea.",
+    "severity": "critical",
+    "timestamp": "21:20:16"
+  },
+  {
+    "id": "cc644d5b-bb64-43ab-837a-6aa6fad98337",
+    "message": "ALERT: Port Congestion reported in Pacific Rim.",
+    "severity": "critical",
+    "timestamp": "21:20:35"
+  },
+  {
+    "id": "536065b2-ad4f-4a73-b5c9-5af3c911104b",
+    "message": "ALERT: Logistics Delay reported in North Atlantic.",
+    "severity": "info",
+    "timestamp": "21:20:45"
+  },
+  {
+    "id": "47003c1d-1cc5-47fd-be85-81f87877b5ef",
+    "message": "ALERT: Logistics Delay reported in Suez Canal.",
+    "severity": "info",
+    "timestamp": "21:21:02"
+  },
+  {
+    "id": "d75baacb-68e7-4cf3-9655-c9e5760a1078",
+    "message": "ALERT: Logistics Delay reported in Suez Canal.",
+    "severity": "critical",
+    "timestamp": "21:21:13"
+  },
+  {
+    "id": "24bace4e-7229-4025-84b0-88009311b2c7",
+    "message": "ALERT: Vessel Maintenance reported in North Atlantic.",
+    "severity": "info",
+    "timestamp": "21:21:19"
+  },
+  {
+    "message": "SIMULATION: Cyber Attack on Port Systems in Global",
+    "severity": "warning",
+    "timestamp": "21:21:26",
+    "id": "8233f461-4226-4a5d-9970-c4870b6b7f7f"
+  },
+  {
+    "id": "65ff1d3e-1f0b-49ac-bb17-20d3e7333fd1",
+    "message": "ALERT: Port Congestion reported in Pacific Rim.",
+    "severity": "warning",
+    "timestamp": "21:21:44"
+  },
+  {
+    "id": "c381bbd5-d4f4-455e-81dd-b14784fa68a4",
+    "message": "ALERT: Port Congestion reported in Pacific Rim.",
+    "severity": "info",
+    "timestamp": "21:21:49"
+  },
+  {
+    "id": "59c5b2f9-44ff-4c4c-8e35-a493e6b17286",
+    "message": "ALERT: Weather Warning reported in North Atlantic.",
+    "severity": "warning",
+    "timestamp": "21:22:34"
+  },
+  {
+    "id": "d6a096a7-6001-4a70-9a5b-eb9b2b849192",
+    "message": "ALERT: Vessel Maintenance reported in South China Sea.",
+    "severity": "warning",
+    "timestamp": "21:22:49"
+  },
+  {
+    "id": "f955f75c-56d5-4948-9215-119fe15f3b32",
+    "message": "ALERT: Logistics Delay reported in Suez Canal.",
+    "severity": "info",
+    "timestamp": "21:23:23"
+  },
+  {
+    "id": "a8036870-e3b4-4684-8b8d-4b0c28446d42",
+    "message": "ALERT: Logistics Delay reported in South China Sea.",
+    "severity": "warning",
+    "timestamp": "21:24:10"
+  },
+  {
+    "id": "7e74686d-ccde-480c-9a07-16684edb3910",
+    "message": "ALERT: Port Congestion reported in North Atlantic.",
+    "severity": "warning",
+    "timestamp": "21:24:15"
+  },
+  {
+    "id": "6587d52d-a0cf-42a5-80ea-a7db871738b8",
+    "message": "ALERT: Weather Warning reported in Pacific Rim.",
+    "severity": "warning",
+    "timestamp": "21:24:33"
+  },
+  {
+    "id": "f488f0a7-b80c-486d-8055-7eec64f32cd5",
+    "message": "ALERT: Port Congestion reported in Suez Canal.",
+    "severity": "warning",
+    "timestamp": "21:24:43"
+  },
+  {
+    "id": "5e255407-2539-40b4-abc4-d700fd1f54f4",
+    "message": "ALERT: Vessel Maintenance reported in South China Sea.",
+    "severity": "critical",
+    "timestamp": "21:24:50"
+  },
+  {
+    "id": "3249fe49-f547-4715-8ec7-7065d837edd8",
+    "message": "ALERT: Port Congestion reported in Pacific Rim.",
+    "severity": "warning",
+    "timestamp": "21:25:00"
+  },
+  {
+    "id": "f0d4305b-bda6-4f8a-b1f2-7447b568b426",
+    "message": "ALERT: Port Congestion reported in South China Sea.",
+    "severity": "info",
+    "timestamp": "21:25:16"
+  },
+  {
+    "id": "7cd81d79-5a4b-4ddc-8928-225dce71213b",
+    "message": "ALERT: Weather Warning reported in South China Sea.",
+    "severity": "critical",
+    "timestamp": "21:25:35"
+  },
+  {
+    "id": "33c414ca-37a4-405b-a130-1a9039a1ba25",
+    "message": "ALERT: Weather Warning reported in Suez Canal.",
+    "severity": "critical",
+    "timestamp": "21:25:56"
+  },
+  {
+    "id": "32e8a47c-9494-45d6-a295-d6ddbf681c73",
+    "message": "ALERT: Port Congestion reported in North Atlantic.",
+    "severity": "critical",
+    "timestamp": "21:26:01"
+  },
+  {
+    "id": "c76cc6a1-86e5-4bec-ae1c-43b75d4a9892",
+    "message": "ALERT: Logistics Delay reported in Pacific Rim.",
+    "severity": "info",
+    "timestamp": "21:27:10"
+  },
+  {
+    "id": "77282835-68e3-4289-bdba-a1c3bad51fda",
+    "message": "ALERT: Weather Warning reported in North Atlantic.",
+    "severity": "warning",
+    "timestamp": "21:27:17"
+  },
+  {
+    "id": "0bfa5ee9-8997-47ac-9433-19189c1a9154",
+    "message": "ALERT: Port Congestion reported in Pacific Rim.",
+    "severity": "info",
+    "timestamp": "21:27:32"
+  },
+  {
+    "id": "e9860fdd-9808-4856-b19e-0f9d6e86b015",
+    "message": "ALERT: Logistics Delay reported in North Atlantic.",
+    "severity": "critical",
+    "timestamp": "21:27:39"
+  },
+  {
+    "id": "bceb3ab3-8f0e-48d1-8d21-5b0713489822",
+    "message": "ALERT: Weather Warning reported in Suez Canal.",
+    "severity": "critical",
+    "timestamp": "21:27:46"
+  },
+  {
+    "id": "9cb423b9-6518-4e82-964e-a419e50778b4",
+    "message": "ALERT: Port Congestion reported in North Atlantic.",
+    "severity": "info",
+    "timestamp": "21:27:54"
+  },
+  {
+    "id": "13836ba8-bcf9-4d65-a0b5-605b014f87ba",
+    "message": "ALERT: Vessel Maintenance reported in South China Sea.",
+    "severity": "warning",
+    "timestamp": "21:28:07"
+  },
+  {
+    "id": "7d496f44-62da-48cb-b3f2-d4792d140afb",
+    "message": "ALERT: Port Congestion reported in South China Sea.",
+    "severity": "warning",
+    "timestamp": "21:28:45"
+  },
+  {
+    "id": "f9d561c0-b4bd-4bb5-a1c3-582aea12a358",
+    "message": "ALERT: Vessel Maintenance reported in South China Sea.",
+    "severity": "critical",
+    "timestamp": "21:28:52"
+  },
+  {
+    "id": "277a6d93-2545-45b5-951d-cb5ddc758949",
+    "message": "ALERT: Logistics Delay reported in Pacific Rim.",
+    "severity": "info",
+    "timestamp": "21:29:40"
+  },
+  {
+    "id": "ee31321d-8bdb-4ad8-9495-ef7548d15f56",
+    "message": "ALERT: Port Congestion reported in Pacific Rim.",
+    "severity": "info",
+    "timestamp": "21:30:20"
+  },
+  {
+    "message": "SIMULATION: Cyber Attack on Port Systems in Global",
+    "severity": "warning",
+    "timestamp": "21:31:28",
+    "id": "51a1c63d-484c-4092-b4b0-ffd6a6e62fd3"
+  },
+  {
+    "id": "4243d795-f9c9-4c6f-8d92-99139e5d90c4",
+    "message": "ALERT: Vessel Maintenance reported in South China Sea.",
+    "severity": "warning",
+    "timestamp": "21:31:47"
+  },
+  {
+    "id": "bb8a416d-77d2-48a0-a61f-326fbacc4ef9",
+    "message": "ALERT: Vessel Maintenance reported in Suez Canal.",
+    "severity": "warning",
+    "timestamp": "21:33:06"
+  },
+  {
+    "id": "3182c6e7-f741-4668-8b58-9360baf84fa0",
+    "message": "ALERT: Logistics Delay reported in Pacific Rim.",
+    "severity": "critical",
+    "timestamp": "21:33:51"
+  },
+  {
+    "id": "e87a0946-6ae3-4658-b2b5-62032664e785",
+    "message": "ALERT: Logistics Delay reported in Pacific Rim.",
+    "severity": "critical",
+    "timestamp": "21:34:43"
+  },
+  {
+    "id": "9a37cdec-cadb-4cdf-93ad-9bf90340a8be",
+    "message": "ALERT: Port Congestion reported in South China Sea.",
+    "severity": "info",
+    "timestamp": "21:34:49"
+  },
+  {
+    "id": "15f4a11e-c8b4-4b70-9229-5223753d0a93",
+    "message": "ALERT: Vessel Maintenance reported in North Atlantic.",
+    "severity": "info",
+    "timestamp": "21:35:39"
+  },
+  {
+    "id": "3ddaa517-f03d-4e73-b2b9-bac01af61eb6",
+    "message": "ALERT: Vessel Maintenance reported in North Atlantic.",
+    "severity": "warning",
+    "timestamp": "21:36:56"
+  },
+  {
+    "id": "c90518b0-685e-47d9-9f8c-8cd86d21f90e",
+    "message": "ALERT: Logistics Delay reported in Suez Canal.",
+    "severity": "info",
+    "timestamp": "21:37:44"
+  },
+  {
+    "id": "176be9ee-198f-46ad-aef0-fec88c2f95fb",
+    "message": "ALERT: Vessel Maintenance reported in Suez Canal.",
+    "severity": "critical",
+    "timestamp": "21:38:18"
+  },
+  {
+    "id": "050e7a96-dd26-4a55-9407-0f29604eb1c3",
+    "message": "ALERT: Logistics Delay reported in Pacific Rim.",
+    "severity": "critical",
+    "timestamp": "21:38:51"
+  },
+  {
+    "id": "c148332e-35d8-448a-87ee-0015c3522f94",
+    "message": "ALERT: Vessel Maintenance reported in South China Sea.",
+    "severity": "warning",
+    "timestamp": "21:39:57"
+  },
+  {
+    "id": "f87f9264-cb80-422f-b37b-03a66660ae74",
+    "message": "ALERT: Logistics Delay reported in North Atlantic.",
+    "severity": "info",
+    "timestamp": "21:40:14"
+  },
+  {
+    "id": "8ce34093-6060-49bb-878f-87f55f67c1b5",
+    "message": "ALERT: Vessel Maintenance reported in South China Sea.",
+    "severity": "warning",
+    "timestamp": "21:40:29"
+  },
+  {
+    "id": "188eec15-c4de-4230-a030-5049b557a946",
+    "message": "ALERT: Logistics Delay reported in Suez Canal.",
+    "severity": "warning",
+    "timestamp": "21:41:07"
+  },
+  {
+    "id": "2da6fcfa-5809-40b0-8200-3600ff2043c8",
+    "message": "ALERT: Logistics Delay reported in South China Sea.",
+    "severity": "warning",
+    "timestamp": "21:41:39"
+  },
+  {
+    "id": "8d154c0f-2071-4070-8eb7-7e83c27667bd",
+    "message": "ALERT: Vessel Maintenance reported in North Atlantic.",
+    "severity": "critical",
+    "timestamp": "21:42:05"
+  },
+  {
+    "id": "c3b2e881-fee7-49ac-b4e9-ba0c97c7d4c7",
+    "message": "ALERT: Port Congestion reported in North Atlantic.",
+    "severity": "warning",
+    "timestamp": "21:42:26"
+  },
+  {
+    "id": "62a09370-d021-4e23-bf16-dba7561554ec",
+    "message": "ALERT: Weather Warning reported in North Atlantic.",
+    "severity": "info",
+    "timestamp": "21:42:39"
+  },
+  {
+    "id": "4b2e2ecb-8eb3-4309-a965-4f02d419c95e",
+    "message": "ALERT: Vessel Maintenance reported in South China Sea.",
+    "severity": "warning",
+    "timestamp": "21:42:46"
+  },
+  {
+    "id": "51ac4275-47c3-4e72-baf1-8b9841dc7672",
+    "message": "ALERT: Vessel Maintenance reported in Pacific Rim.",
+    "severity": "info",
+    "timestamp": "21:43:34"
+  },
+  {
+    "id": "d680d07f-c2b4-4eb0-ba44-49723a0892bc",
+    "message": "ALERT: Logistics Delay reported in North Atlantic.",
+    "severity": "warning",
+    "timestamp": "21:43:56"
+  },
+  {
+    "id": "2add8983-84da-4087-a43c-16b4b637d8a1",
+    "message": "ALERT: Vessel Maintenance reported in Suez Canal.",
+    "severity": "warning",
+    "timestamp": "21:44:43"
+  },
+  {
+    "id": "429163b8-bc72-4554-9500-8fefe71e974a",
+    "message": "ALERT: Port Congestion reported in Suez Canal.",
+    "severity": "critical",
+    "timestamp": "21:45:28"
+  },
+  {
+    "id": "f38a7c41-0d5e-45e3-8a9e-f112c423d2fa",
+    "message": "ALERT: Port Congestion reported in Pacific Rim.",
+    "severity": "warning",
+    "timestamp": "21:46:14"
+  },
+  {
+    "id": "cac71d7d-2883-4ec7-b046-dff7a4711d22",
+    "message": "ALERT: Vessel Maintenance reported in North Atlantic.",
+    "severity": "warning",
+    "timestamp": "21:46:27"
+  },
+  {
+    "id": "43d340ee-6d5d-413f-b8c3-3418a13b3795",
+    "message": "ALERT: Logistics Delay reported in Suez Canal.",
+    "severity": "warning",
+    "timestamp": "21:46:33"
+  },
+  {
+    "id": "7fefab86-f8ea-4237-8085-337e923ff412",
+    "message": "ALERT: Vessel Maintenance reported in South China Sea.",
+    "severity": "warning",
+    "timestamp": "21:47:16"
+  },
+  {
+    "id": "1b50a64c-89d1-432a-a75d-bb3426d3b118",
+    "message": "ALERT: Logistics Delay reported in Pacific Rim.",
+    "severity": "warning",
+    "timestamp": "21:48:14"
+  },
+  {
+    "id": "3bc17290-d1a4-44e2-a1ff-6567ccd9bd0f",
+    "message": "ALERT: Port Congestion reported in Pacific Rim.",
+    "severity": "info",
+    "timestamp": "21:48:36"
+  },
+  {
+    "id": "98d2424b-03e4-41b7-81e6-8bcb0fa83b78",
+    "message": "ALERT: Logistics Delay reported in Suez Canal.",
+    "severity": "warning",
+    "timestamp": "21:48:59"
+  },
+  {
+    "id": "e883fb9f-7c03-4f64-9775-adee5ce6a7c0",
+    "message": "ALERT: Port Congestion reported in North Atlantic.",
+    "severity": "info",
+    "timestamp": "21:49:56"
+  },
+  {
+    "id": "79805595-49ea-4b09-a147-b271f473c2a0",
+    "message": "ALERT: Port Congestion reported in South China Sea.",
+    "severity": "warning",
+    "timestamp": "21:50:30"
+  },
+  {
+    "id": "c4839c70-4c5e-4a3d-aef9-531bfe9ce991",
+    "message": "ALERT: Vessel Maintenance reported in South China Sea.",
+    "severity": "warning",
+    "timestamp": "21:50:44"
+  },
+  {
+    "id": "68687b44-ea1d-40d0-99a6-5fb6e5440ab8",
+    "message": "ALERT: Port Congestion reported in South China Sea.",
+    "severity": "info",
+    "timestamp": "21:51:28"
+  },
+  {
+    "id": "d1ed6a41-24fb-4ccb-ba30-f738a322bcdb",
+    "message": "ALERT: Port Congestion reported in Pacific Rim.",
+    "severity": "info",
+    "timestamp": "21:51:34"
+  },
+  {
+    "id": "3c329026-8021-4ce8-9e12-ce4714d955d4",
+    "message": "ALERT: Port Congestion reported in Pacific Rim.",
+    "severity": "info",
+    "timestamp": "21:51:48"
+  },
+  {
+    "id": "6f1bb7c2-05b3-462d-8198-33386ff5c0ca",
+    "message": "ALERT: Logistics Delay reported in Pacific Rim.",
+    "severity": "critical",
+    "timestamp": "21:52:08"
+  },
+  {
+    "id": "76e56700-bdb4-43fc-aaed-a3b2e69a23e4",
+    "message": "ALERT: Weather Warning reported in North Atlantic.",
+    "severity": "info",
+    "timestamp": "21:52:47"
+  },
+  {
+    "id": "f112197a-b678-4705-aaee-429fb6d87d5b",
+    "message": "ALERT: Vessel Maintenance reported in Suez Canal.",
+    "severity": "info",
+    "timestamp": "21:53:24"
+  },
+  {
+    "id": "7ed749c9-b6a0-4519-8723-22c712fa4b18",
+    "message": "ALERT: Port Congestion reported in Pacific Rim.",
+    "severity": "info",
+    "timestamp": "21:53:53"
+  },
+  {
+    "id": "22626955-aac6-44cf-8159-c0907266f5e3",
+    "message": "ALERT: Weather Warning reported in Pacific Rim.",
+    "severity": "info",
+    "timestamp": "21:55:20"
+  },
+  {
+    "id": "a1c7faff-20e2-46bc-923a-cc62de2dfb4f",
+    "message": "ALERT: Weather Warning reported in Suez Canal.",
+    "severity": "critical",
+    "timestamp": "21:55:29"
+  }
+]

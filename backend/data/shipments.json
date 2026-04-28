@@ -1,0 +1,122 @@
+[
+  {
+    "id": "SHP-2024-001",
+    "origin": "Shanghai",
+    "destination": "Rotterdam",
+    "status": "IN_TRANSIT",
+    "risk_score": 0.86,
+    "eta": "2026-05-12",
+    "vessel": "Ever Given II",
+    "load_type": "Electronics"
+  },
+  {
+    "id": "SHP-2024-002",
+    "origin": "Singapore",
+    "destination": "Los Angeles",
+    "status": "ARRIVED",
+    "risk_score": 0.14,
+    "eta": "2026-05-15",
+    "vessel": "Maersk Horizon",
+    "load_type": "Automotive Parts"
+  },
+  {
+    "id": "SHP-2024-003",
+    "origin": "Mumbai",
+    "destination": "New York",
+    "status": "CRITICAL",
+    "risk_score": 0.23,
+    "eta": "2026-05-22",
+    "vessel": "CMA CGM Voyager",
+    "load_type": "Pharmaceuticals"
+  },
+  {
+    "id": "SHP-2024-004",
+    "origin": "Hamburg",
+    "destination": "Jebel Ali",
+    "status": "ARRIVED",
+    "risk_score": 0.19,
+    "eta": "2026-05-10",
+    "vessel": "Hapag-Lloyd Express",
+    "load_type": "Machinery"
+  },
+  {
+    "id": "SHP-2024-005",
+    "origin": "Busan",
+    "destination": "Long Beach",
+    "status": "CRITICAL",
+    "risk_score": 0.71,
+    "eta": "2026-05-14",
+    "vessel": "MSC Gulsun",
+    "load_type": "Consumer Goods"
+  },
+  {
+    "id": "SHP-2024-006",
+    "origin": "Santos",
+    "destination": "Antwerp",
+    "status": "CRITICAL",
+    "risk_score": 0.85,
+    "eta": "2026-05-18",
+    "vessel": "COSCO Glory",
+    "load_type": "Coffee Beans"
+  },
+  {
+    "id": "SHP-2024-007",
+    "origin": "Ningbo",
+    "destination": "Felixstowe",
+    "status": "IN_TRANSIT",
+    "risk_score": 0.42,
+    "eta": "2026-05-11",
+    "vessel": "ONE Continuity",
+    "load_type": "Textiles"
+  },
+  {
+    "id": "SHP-2024-008",
+    "origin": "Port Kelang",
+    "destination": "Savannah",
+    "status": "CRITICAL",
+    "risk_score": 0.99,
+    "eta": "2026-05-25",
+    "vessel": "ZIM Falcon",
+    "load_type": "Semiconductors"
+  },
+  {
+    "id": "SHP-2024-009",
+    "origin": "Colombo",
+    "destination": "Le Havre",
+    "status": "DELAYED",
+    "risk_score": 0.65,
+    "eta": "2026-05-16",
+    "vessel": "Yang Ming Zenith",
+    "load_type": "Raw Materials"
+  },
+  {
+    "id": "SHP-2024-010",
+    "origin": "Algeciras",
+    "destination": "Valencia",
+    "status": "IN_TRANSIT",
+    "risk_score": 0.32,
+    "eta": "2026-05-09",
+    "vessel": "Grimaldi Master",
+    "load_type": "Produce"
+  },
+  {
+    "id": "SHP-2024-011",
+    "origin": "Ho Chi Minh City",
+    "destination": "Seattle",
+    "status": "DELAYED",
+    "risk_score": 0.78,
+    "eta": "2026-05-17",
+    "vessel": "Pacific Link",
+    "load_type": "Furniture"
+  },
+  {
+    "id": "SHP-2024-012",
+    "origin": "Tanger Med",
+    "destination": "Genoa",
+    "status": "IN_TRANSIT",
+    "risk_score": 0.48,
+    "eta": "2026-05-13",
+    "vessel": "Med Spirit",
+    "load_type": "Chemicals"
+  }
+]

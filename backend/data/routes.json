@@ -1,0 +1,22 @@
+[
+  {
+    "id": "RT-SHA-ROT-001",
+    "origin": "Shanghai",
+    "destination": "Rotterdam",
+    "current_route": ["SHA", "SGP", "SUEZ", "ROT"],
+    "optimized_route": ["SHA", "SGP", "CAPE", "ROT"],
+    "time_saved_hours": 32.5,
+    "risk_reduction_pct": "28%",
+    "reason": "Avoided SUEZ congestion and high weather risk."
+  },
+  {
+    "id": "RT-SGP-LAX-002",
+    "origin": "Singapore",
+    "destination": "Los Angeles",
+    "current_route": ["SGP", "PHL", "LAX"],
+    "optimized_route": ["SGP", "GUA", "LAX"],
+    "time_saved_hours": 14.2,
+    "risk_reduction_pct": "15%",
+    "reason": "Optimized waypoint sequencing for current current flows."
+  }
+]

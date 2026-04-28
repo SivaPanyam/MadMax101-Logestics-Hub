@@ -1,0 +1,9 @@
+{
+  "total_shipments": 1542,
+  "high_risk_count": 48,
+  "on_time_percentage": 94.2,
+  "vessels_at_sea": 892,
+  "ports_congested": 12,
+  "global_efficiency_index": 8.4,
+  "last_updated": "2026-04-28T20:45:00Z"
+}

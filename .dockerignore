@@ -1,0 +1,25 @@
+# Git
+.git
+.gitignore
+
+# Frontend
+logistics-hub/node_modules
+logistics-hub/dist
+logistics-hub/.env
+
+# Backend
+backend/__pycache__
+backend/.env
+backend/venv
+backend/scratch
+backend/test_output.txt
+
+# Artifacts & Local Data
+.gemini
+artifacts
+brain
+knowledge
+*.md
+*.png
+*.jpg
+*.log

@@ -1,0 +1,38 @@
+# Environments
+.env
+.env.*
+backend/.env
+logistics-hub/.env
+
+# Dependencies
+node_modules/
+dist/
+build/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Local Data & Logs
+backend/data/*.json
+!backend/data/shipments.json
+!backend/data/alerts.json
+!backend/data/routes.json
+!backend/data/metrics.json
+backend/test_output.txt
+test_output.txt
+
+# Artifacts & System
+.gemini/
+artifacts/
+brain/
+knowledge/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
