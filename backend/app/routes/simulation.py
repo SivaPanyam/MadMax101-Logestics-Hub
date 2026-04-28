@@ -1,13 +1,13 @@
 from fastapi import APIRouter
-from app.schemas.api import SimulateRequest
+from app.schemas.api import SimulateRequest, OptimizeRequest
 from app.services import logic
 from app.utils.websockets import manager
 
 router = APIRouter(tags=["Simulation"])
 
 @router.post("/optimize-route")
-def optimize_route(origin: str, destination: str):
-    return logic.optimize_route(origin, destination)
+def optimize_route(request: OptimizeRequest):
+    return logic.optimize_route(request.origin, request.destination)
 
 @router.post("/simulate")
 async def run_simulation(request: SimulateRequest):
